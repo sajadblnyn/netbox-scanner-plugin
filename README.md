@@ -1,9 +1,5 @@
 # NetBox Scanner Plugin
 
-> **Deployment Note:** Before installation, move the plugin folder to the following path:
->
-> `/opt/netbox/netbox/plugins`
-
 A NetBox plugin for automated network discovery and device scanning. This plugin provides network range scanning and Cisco switch scanning capabilities to automatically populate NetBox with discovered devices, interfaces, IP addresses, and VLANs.
 
 ---
